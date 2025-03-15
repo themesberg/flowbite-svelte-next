@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0-next.5
+
+### Patch Changes
+
+- Typscript issue in build corrected
+
 ## 1.0.0-next.4
 
 ### Patch Changes

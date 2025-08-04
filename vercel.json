@@ -1,9 +1,9 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://flowbite-svelte.com/:1",
-      "permanent": true
+      "destination": "https://flowbite-svelte.com/"
     }
   ]
 }
